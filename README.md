@@ -7,7 +7,8 @@
     tools: [React, Vue, Node, Jest, Docker, Rails]
   }
  ```
- You can find me :ear
+ You can find me 🌎
+ - [LinkedIn](https://www.linkedin.com/in/fabian-pino-p/)
 <!--
 **FabianPinoP/FabianPinoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
