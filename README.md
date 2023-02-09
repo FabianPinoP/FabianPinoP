@@ -1,14 +1,17 @@
 ### Hi, I'm Fabian 👨‍💻
+## about me in code
 ```js
   const FabianPinoP = {
     passions: ['web development']
     pronouns: "he" | "him",
     code: [Javascript, HTML, CSS, Ruby, Postgreql, MySql]
-    tools: [React, Vue, Node, Jest, Docker, Rails]
-  }
+    tools: [React, Vue, Node, Jest, Rspec, Docker, Rails]
+  } 
  ```
- You can find me 🌎
+ ## You can find me 🌎
  - [LinkedIn](https://www.linkedin.com/in/fabian-pino-p/)
+
+## My stats
  
  [![FabianPinoP GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianPinoP&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
