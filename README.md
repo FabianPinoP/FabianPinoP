@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Hi, I'm Fabian 👨‍💻
+```js
+  const FabianPinoP = {
+    passions: ['web development']
+    pronouns: "he" | "him",
+    code: [Javascript, HTML, CSS, Ruby, Postgreql, MySql]
+    tools: [React, Vue, Node, Jest, Docker, Rails]
+  }
+ ```
+ You can find me :ear
 <!--
 **FabianPinoP/FabianPinoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
