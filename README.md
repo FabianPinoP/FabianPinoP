@@ -91,8 +91,16 @@
       alt="mongo image" />
   </a>
    <a>
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"
+      alt="firebase image" />
+  </a>
+   <a>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
       alt="redis image" />
+  </a>
+    <a>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker image" />
   </a>
    <a>
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"
