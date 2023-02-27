@@ -14,9 +14,9 @@
 ## About me in code
 ```js
   const FabianPinoP = {
-    passions: ['web development']
+    passions: ['web development'],
     pronouns: "he" | "him",
-    code: [Javascript, HTML, CSS, Ruby, Postgreql, MySql]
+    code: [Javascript, HTML, CSS, Ruby, Postgreql, MySql],
     tools: [React, Vue, Node, Jest, Rspec, Docker, Rails, Redis]
   } 
   const more = ...👇
