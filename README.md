@@ -106,6 +106,9 @@
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"
       alt="jest image" />
   </a>
+    <a>
+      <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma-orm" />
+    </a>
 </div>
 
  ## You can find me 🌎
